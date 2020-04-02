@@ -1,0 +1,4 @@
+
+.vagrant/
+chef/cookbooks/docker
+*.log
