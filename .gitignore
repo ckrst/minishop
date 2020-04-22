@@ -1,4 +1,6 @@
 
 .vagrant/
+chef/berks-cookbooks/
 chef/cookbooks/docker
+chef/Berksfile.lock
 *.log
